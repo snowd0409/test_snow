@@ -6,7 +6,7 @@ namespace test_snow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!,i'm new");
         }
     }
 }
